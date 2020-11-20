@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Xaukia/hello-world)
+
 # hello-world
 esse projeto sera o inicio de muitos ate chergarmos ao topo.
 pretendo fazer algo novo e diferente.
